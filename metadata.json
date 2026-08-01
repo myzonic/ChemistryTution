@@ -1,0 +1,6 @@
+{
+  "name": "Chemistry Tuition - Lynsey Robinson",
+  "description": "Elite Chemistry Tuition for Senior Phase Students by Lynsey Robinson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
